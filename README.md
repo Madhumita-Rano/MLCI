@@ -33,7 +33,7 @@ Details of the algorithm can be summarized in three elementary steps:
 
 # Contributors :
 1. Madhumita Rano
-2. Prof. Debashree Ghosh
+2. Prof. Debashree Ghosh (https://github.com/dghoshlab)
 
 # Compilation :
 	a) First, download and install the mcci-master programme using instruction therein : git clone https://github.com/MCCI/mcci.git
