@@ -40,13 +40,13 @@ Details of the algorithm can be summarized in three elementary steps:
 	b) Then install the variational energy calculator, "varE" and user is adviced to follow same procedure for installation as above.
 
 #How to run this code ?
-1. unzip csv_data.zip
+1. Download "csv_data.zip" from "Releases" and then unzip csv_data.zip
 2. Modify input arguments in "general_input.in" file accordingly. 
 3. Run 
    ./build_model
    ./assemble
 
-N.B.: Please give your "varE" executable path in "cal_energy.py" for calculating variational energy. 
+N.B.: Please give your "varE" executable path in "cal_energy.py" for calculating variational energy.
 
 # Input arguments 
 1. nalpha        : 	INT
