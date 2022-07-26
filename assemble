@@ -1,0 +1,36 @@
+#!/usr/bin/python3
+import time
+import subprocess
+import os
+import shutil
+from sensi_speci import sensi_speci
+
+f1 = open("time_run","a")
+start_time = time.time()
+subprocess.run("python3 predictANN.py", shell= True)
+t1 = time.time()
+tpredict = t1 - start_time
+f1.write("Time in prediction : %.2f seconds" % (tpredict)+'\n')
+print("Prediction complete.\n")
+
+sensi_speci("whole_space",0.001)
+t2 = time.time()
+tsensi = t2 - t1
+f1.write("Time in sensitivity calculation : %.2f seconds" % (tsensi)+'\n')
+print("Sensitivity calculation complete.\n")
+
+subprocess.run("python3 cal_energy.py", shell= True)
+t3 = time.time()
+tenergy = t3 - t2
+f1.write("Time in energy calculation : %.2f seconds" % (tenergy)+'\n')
+print("Energy calculation complete.\n")
+
+total = tpredict + tsensi+ tenergy
+f1.write("Total time taken : %.2f seconds" % (total)+'\n'+"*****************************************"+"\n")
+
+print("****************")
+print("We are done! Happy Computing! :)")
+print("****************")
+
+# Clean the directory
+subprocess.call("rm data1.dat ecore_value csf_energy weight", shell=True)

@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+import numpy as np
+import os
+from trainANN import train_ANN
+from get_MSE import get_MSE
+from sensi_speci import sensi_speci 
+
+train_ANN()
+get_MSE()
+sensi_speci("validation_space",0.001)

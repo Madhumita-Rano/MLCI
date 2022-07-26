@@ -1,0 +1,117 @@
+
+0.001    30.294530154277698      99.98617265141317
+true_positive  :     216, true_negetive  : 4714641
+false_positive :     652, false_negetive :     497
+Train MSE error >> 0.00012618588280217943	Test MSE error >> 0.00036353844171530095
+
+0.001    65.48223350253807      95.25773195876288
+true_positive  :     129, true_negetive  :     924
+false_positive :      46, false_negetive :      68
+
+0.001    30.294530154277698      99.98617265141317
+true_positive  :     216, true_negetive  : 4714641
+false_positive :     652, false_negetive :     497
+
+0.001    32.398316970546986      99.98420034555647
+true_positive  :     231, true_negetive  : 4714548
+false_positive :     745, false_negetive :     482
+Train MSE error >> 0.00037345046475083704	Test MSE error >> 0.000213525048762277
+
+0.001    25.105189340813467      99.98958707338016
+true_positive  :     179, true_negetive  : 4714802
+false_positive :     491, false_negetive :     534
+Train MSE error >> 0.00040518944457251864	Test MSE error >> 4.1830203270292746e-05
+
+0.001    61.88118811881188      94.30051813471503
+true_positive  :     125, true_negetive  :     910
+false_positive :      55, false_negetive :      77
+
+0.001    25.105189340813467      99.98958707338016
+true_positive  :     179, true_negetive  : 4714802
+false_positive :     491, false_negetive :     534
+
+0.001    31.276297335203367      99.9837337785796
+true_positive  :     223, true_negetive  : 4714526
+false_positive :     767, false_negetive :     490
+
+0.001    31.276297335203367      99.9837337785796
+true_positive  :     223, true_negetive  : 4714526
+false_positive :     767, false_negetive :     490
+Train MSE error >> 0.00040952712993332573	Test MSE error >> 0.00021071029154457943
+
+0.001    58.29383886255924      94.56066945606695
+true_positive  :     123, true_negetive  :     904
+false_positive :      52, false_negetive :      88
+
+0.001    31.276297335203367      99.9837337785796
+true_positive  :     223, true_negetive  : 4714526
+false_positive :     767, false_negetive :     490
+
+0.001    30.014025245441793      99.9880389193206
+true_positive  :     214, true_negetive  : 4714729
+false_positive :     564, false_negetive :     499
+
+0.001    30.014025245441793      99.9880389193206
+true_positive  :     214, true_negetive  : 4714729
+false_positive :     564, false_negetive :     499
+
+0.001    30.014025245441793      99.9880389193206
+true_positive  :     214, true_negetive  : 4714729
+false_positive :     564, false_negetive :     499
+
+0.001    30.014025245441793      99.9880389193206
+true_positive  :     214, true_negetive  : 4714729
+false_positive :     564, false_negetive :     499
+
+0.001    30.014025245441793      99.9880389193206
+true_positive  :     214, true_negetive  : 4714729
+false_positive :     564, false_negetive :     499
+Train MSE error >> 0.0005347326284150905	Validation MSE error >> 4.476237702001861e-05
+
+0.001    52.79187817258884      95.36082474226805
+true_positive  :     104, true_negetive  :     925
+false_positive :      45, false_negetive :      93
+
+0.001    30.014025245441793      99.9880389193206
+true_positive  :     214, true_negetive  : 4714729
+false_positive :     564, false_negetive :     499
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505
+
+0.001    29.172510518934082      99.98825099521918
+true_positive  :     208, true_negetive  : 4714739
+false_positive :     554, false_negetive :     505

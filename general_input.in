@@ -1,0 +1,6 @@
+4            # nalpha
+40	     # dspace
+46	     #input descriptors
+40	     # Nodes in hidden layer
+0.0001       # Learning rate
+1500	     #Epochs
